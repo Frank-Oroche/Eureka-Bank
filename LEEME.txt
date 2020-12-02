@@ -1,0 +1,11 @@
+---------EUREKA BANK-----------------------------------
+Para el siguiente proyecto se debe ejecutar los SQLs 
+adjuntadas en la carpeta de esquema de base de datos.
+
+Para la aplicacion se debe agrgar el archivo .JAR para
+el controlador de MySQL.
+
+Se inicia como Usiario: admin y Contraseña: admin.
+
+Recordar que se debe modificar en la clase conexion 
+segun los parametros que tenga uno.
